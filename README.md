@@ -1,2 +1,2 @@
 # hello-world
-My tes repository
+My test repository
